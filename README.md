@@ -6,7 +6,7 @@ Movie exploring frontend with react which is done fore assessment in loons lab
 A responsive movie discovery app built with **React, Material UI and the TMDb API**.
 Search movies, browse what's trending, open detailed views with cast and trailers, filter by genre / year / rating, and save favorites.
 
-**Live demo:** _[add your Netlify link here](https://reelhouseloon.netlify.app/)_
+**Live demo:** _[Netlify link](https://reelhouseloon.netlify.app/)_
 
 ## Features
 - Login screen (demo auth, session kept in localStorage)
@@ -15,7 +15,7 @@ Search movies, browse what's trending, open detailed views with cast and trailer
 - Filters: genre, release year, minimum rating
 - Movie details: overview, genres, runtime, rating, cast, **YouTube trailer** dialog
 - Favorites list and last search, both saved in localStorage
-- Light / dark mode (remembered), mobile-first responsive layout
+- Light / dark mode, mobile-first responsive layout
 - Friendly error messages with retry, loading skeletons, empty states
 
 ## Tech stack
